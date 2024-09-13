@@ -18,7 +18,7 @@
 
 🌱 I'm currently learning: Data Structures and Algorithms on [LeetCode](https://leetcode.com/hirthicksofficial)<br>
 
-📬 How to reach me: [nareshjumarnkrs@gmail.com]<br>
+📬 How to reach me: [nareshkumarnkrs@gmail.com]<br>
 
 📝 [Resume](https://github.com/Nare5hkumars/RESUME/blob/main/Hirthick%20official.pdf)<br>
 
