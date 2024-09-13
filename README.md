@@ -18,9 +18,9 @@
 
 🌱 I'm currently learning: Data Structures and Algorithms on [LeetCode](https://leetcode.com/hirthicksofficial)<br>
 
-📬 How to reach me: [hirthicksoffical@gmail.com](mailto:nareshjumarnkrs@gmail.com)<br>
+📬 How to reach me: [nareshjumarnkrs@gmail.com]<br>
 
-📝 [Resume](https://github.com/Hirthick6/RESUME/blob/main/Hirthick%20official.pdf)<br>
+📝 [Resume](https://github.com/Nare5hkumars/RESUME/blob/main/Hirthick%20official.pdf)<br>
 
 💪 This is where I write, code and solve problems.<br><br>
 
